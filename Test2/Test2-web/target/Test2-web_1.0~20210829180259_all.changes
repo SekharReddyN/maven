@@ -1,0 +1,20 @@
+Format: 1.8
+Date: Sun, 29 Aug 2021 18:04:13 +0530
+Source: Test2-web
+Binary: Test2-web
+Architecture: all
+Version: 1.0~20210829180259
+Distribution: unknown
+Urgency: low
+Maintainer: daniel@solong.co.uk
+Changed-By: daniel@solong.co.uk
+Description:
+ Test2-web - [[description]]
+Changes:
+ Test2-web (1.0~20210829180259) unknown; urgency=low
+Checksums-Sha1:
+ 8a21453a84698518073e489b3c7e014695c79971 6660 Test2-web.deb
+Checksums-Sha256:
+ 138a2e17e8d39ccf651ca41ffe3c857df53ea2b7c1aa260ea4ac9f9c60b50b9b 6660 Test2-web.deb
+Files:
+ 1580467f2ee488b4bc202313c034f260 6660 misc low Test2-web.deb
